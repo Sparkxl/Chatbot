@@ -1,8 +1,8 @@
 ---
 applications:
-- name: SparkXu-Last
+- name: SparkXu
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 0e8a695d-eca9-4467-8691-231bff8e0477
+    CONVERSATION_WORKSPACE_ID: Workspace ID: 93159d7f-c874-4962-b4f6-fab198511027
     CAR_SERVICE_HOST: webchatbotcar.mybluemix.net
